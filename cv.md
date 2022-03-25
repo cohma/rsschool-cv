@@ -27,3 +27,16 @@ for (const slide of slides) {
   })
 }
 ```
+# Work experience
++ Carnival Cruise line
++ Accorhotels
+
+# Education
++ Web development course, Worldkills
++ Wev development and JavaScript, Synergy
++ IT Support Google professional certificate 
++ Moscow State University of tourism and hospitality named after Yu.A. Senkevich (2012-2017)
+
+# Languages
++ English– upper-intermediate (IELTS certificate 7.5 overall)
++ French - intermediate

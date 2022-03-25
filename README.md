@@ -1,1 +1,1 @@
-# rsschool-cv
+https://cohma.github.io/rsschool-cv/cv
